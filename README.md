@@ -26,31 +26,3 @@ The SQLite database, raw saved pages, application records, interview notes,
 resumes and private server configuration are not included. These are public
 listing/enrichment exports, not a full database upload. Historical listings use
 stored enrichment captured at publication, not reconstructed historical enrichment.
-
-## Upload and host
-
-Upload the **contents** of this folder to the root of your public repository,
-keeping the `data/` subdirectories intact and including `.nojekyll`.
-Use Git to push this bundle, since it contains more than 12,000 files.
-Do not use Git LFS for the published JSON files.
-
-The ZeBeZo wrapper currently loads these JSON files directly from the public
-GitHub `main` branch through `raw.githubusercontent.com`. GitHub Pages is not
-required for this release. Hosting does not change node positions, pay
-calculations, or filter membership; updates still require pushing a refreshed
-dataset.
-
-## Connection boundary
-
-The website stays on ZeBeZo. Static JSON requests use GitHub's raw file host.
-The manifest contains relative paths such as
-`./data/timeline/web_graph_2026-09-28.json` and `./data/jobs/`.
-The viewer resolves them against the GitHub repository root, rather than the
-ZeBeZo page URL. The graph geometry remains application-owned.
-
-## Verify the local upload folder
-
-```bash
-cd /home/paulwasthere/DataGraphs
-sha256sum -c SHA256SUMS
-```
