@@ -1,11 +1,1 @@
-{
-  "release": "20260929-job-review-v2",
-  "latest_date": "2026-09-28",
-  "dates": 42,
-  "graph_snapshots": 42,
-  "pay_summaries": 42,
-  "job_detail_cards": 12811,
-  "data_bytes": 289284864,
-  "data_files": 12896,
-  "copy_hash_validation": "PASS"
-}
+{"release":"datagraphs-search-20260929T193442Z","latest_date":"2026-09-29","dates":43,"graph_snapshots":43,"pay_summaries":43,"job_detail_cards":13111,"data_bytes":307012607,"data_files":13203,"update_validation":"manifest and changed files validated","search_shards":5,"search_indexed_jobs":13111}

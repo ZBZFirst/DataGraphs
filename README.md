@@ -2,10 +2,10 @@
 
 Static public data for [ZeBeZo Job Review](https://www.zebezo.org/web-experiments/job-review/).
 
-This bundle contains the exact JSON from the approved `20260929-job-review-v2`
-release: 42 observed dates through September 28, 2026; 42 graph snapshots;
-42 pay summaries; and 12,811 individual public job-detail cards.
-The JSON data is approximately 289 MB (276 MiB).
+This bundle contains 43 observed dates through September 29, 2026, with one
+graph snapshot and pay summary per date and 13,111 individual public job-detail
+cards. The September 29 listing population is complete, while its enrichment is
+marked partial in the manifest and graph snapshot.
 
 ## Files
 
@@ -15,6 +15,8 @@ The JSON data is approximately 289 MB (276 MiB).
 - `data/pay/`: annualized pay summaries, loaded for visible dates.
 - `data/jobs/`: public job details, loaded only when a job is clicked. Filenames
   are the SHA-256 digest of the canonical job ID.
+- `data/search/`: compact term-to-job indexes by organization, loaded only for
+  a word search. These contain no raw descriptions or parsed item text.
 - `SHA256SUMS`: checksums for every data file.
 - `bundle-info.json`: counts and release identity.
 - `.nojekyll`: publishes these static files without Jekyll processing.
@@ -32,33 +34,19 @@ keeping the `data/` subdirectories intact and including `.nojekyll`.
 Use Git to push this bundle, since it contains more than 12,000 files.
 Do not use Git LFS for the published JSON files.
 
-In repository **Settings → Pages**, choose **Deploy from a branch**, select the
-branch containing these files (usually `main`) and choose **/ (root)**.
-GitHub's instructions:
-https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-
-Once Pages is published, the URLs will normally look like:
-
-```text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/data/manifest.json
-```
-
-Send the published Pages URL back so the ZeBeZo viewer can be connected to it.
-A public repository alone does not enable Pages hosting. Hosting does not change
-node positions, pay calculations or filter membership, and updates still require
-publishing a refreshed dataset.
+The ZeBeZo wrapper currently loads these JSON files directly from the public
+GitHub `main` branch through `raw.githubusercontent.com`. GitHub Pages is not
+required for this release. Hosting does not change node positions, pay
+calculations, or filter membership; updates still require pushing a refreshed
+dataset.
 
 ## Connection boundary
 
-The website stays on ZeBeZo. Only the static JSON requests will move to the new
-hosting origin. The existing manifest contains relative paths such as
+The website stays on ZeBeZo. Static JSON requests use GitHub's raw file host.
+The manifest contains relative paths such as
 `./data/timeline/web_graph_2026-09-28.json` and `./data/jobs/`.
-When connecting this bundle, the viewer must resolve them against the GitHub
-Pages repository root, rather than the ZeBeZo page URL. Its current URL resolver
-will need that small configuration change after the hosting URL is known.
-Cross-origin JSON fetching will be verified then. The live ZeBeZo page has not
-been switched to any placeholder URL.
+The viewer resolves them against the GitHub repository root, rather than the
+ZeBeZo page URL. The graph geometry remains application-owned.
 
 ## Verify the local upload folder
 
