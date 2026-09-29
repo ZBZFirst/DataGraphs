@@ -1,0 +1,11 @@
+{
+  "release": "20260929-job-review-v2",
+  "latest_date": "2026-09-28",
+  "dates": 42,
+  "graph_snapshots": 42,
+  "pay_summaries": 42,
+  "job_detail_cards": 12811,
+  "data_bytes": 289284864,
+  "data_files": 12896,
+  "copy_hash_validation": "PASS"
+}
