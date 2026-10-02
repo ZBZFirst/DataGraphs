@@ -1,13 +1,1 @@
-{
-  "release": "datagraphs-20261001T180300Z-appearance",
-  "latest_date": "2026-10-01",
-  "dates": 45,
-  "graph_snapshots": 45,
-  "pay_summaries": 45,
-  "job_detail_cards": 13599,
-  "data_bytes": 339928863,
-  "data_files": 13695,
-  "update_validation": "appearance history backfill validated",
-  "search_shards": 5,
-  "search_indexed_jobs": 13599
-}
+{"release":"datagraphs-20261002T171052Z","latest_date":"2026-10-02","dates":46,"graph_snapshots":46,"pay_summaries":46,"job_detail_cards":13877,"data_bytes":348895994,"data_files":13975,"update_validation":"manifest and changed files validated","search_shards":5,"search_indexed_jobs":13877}
