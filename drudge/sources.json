@@ -1,0 +1,1240 @@
+{
+  "page_url": "https://www.drudgereport.com/",
+  "baseline_at": "2026-10-17T21:21:36.602862+00:00",
+  "updated_at": "2026-10-17T21:21:36.602862+00:00",
+  "sources": {
+    "http://www.abcnews.com/": {
+      "url": "http://www.abcnews.com/",
+      "labels": [
+        "ABCNEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.theatlantic.com/": {
+      "url": "http://www.theatlantic.com/",
+      "labels": [
+        "ATLANTIC"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.axios.com/": {
+      "url": "https://www.axios.com/",
+      "labels": [
+        "AXIOS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://news.bbc.co.uk/default.stm": {
+      "url": "http://news.bbc.co.uk/default.stm",
+      "labels": [
+        "BBC"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.billboard.com": {
+      "url": "http://www.billboard.com",
+      "labels": [
+        "BILLBOARD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://bnonews.com/": {
+      "url": "https://bnonews.com/",
+      "labels": [
+        "BNO NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.boston.com/globe/": {
+      "url": "http://www.boston.com/globe/",
+      "labels": [
+        "BOSTON GLOBE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://bostonherald.com/news": {
+      "url": "http://bostonherald.com/news",
+      "labels": [
+        "BOSTON HERALD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.breitbart.com/": {
+      "url": "https://www.breitbart.com/",
+      "labels": [
+        "BREITBART"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.businessinsider.com/": {
+      "url": "http://www.businessinsider.com/",
+      "labels": [
+        "BUSINESS INSIDER"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.cbsnews.com": {
+      "url": "http://www.cbsnews.com",
+      "labels": [
+        "CBS NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://cbslocal.com/2015/08/31/daily-news-tips-from-cbs-local-sites/": {
+      "url": "http://cbslocal.com/2015/08/31/daily-news-tips-from-cbs-local-sites/",
+      "labels": [
+        "CBS NEWS LOCAL"
+      ],
+      "category": "Story",
+      "destination_type": "Article",
+      "classification_basis": "Dated article URL inside source directory"
+    },
+    "http://www.c-span.org": {
+      "url": "http://www.c-span.org",
+      "labels": [
+        "C-SPAN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.suntimes.com/": {
+      "url": "http://www.suntimes.com/",
+      "labels": [
+        "CHICAGO SUN-TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.chicagotribune.com": {
+      "url": "http://www.chicagotribune.com",
+      "labels": [
+        "CHICAGO TRIB"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.csmonitor.com/": {
+      "url": "http://www.csmonitor.com/",
+      "labels": [
+        "CHRISTIAN SCIENCE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.cnbc.com/": {
+      "url": "http://www.cnbc.com/",
+      "labels": [
+        "CNBC"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.cnn.com": {
+      "url": "http://www.cnn.com",
+      "labels": [
+        "CNN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.crazydaysandnights.net/": {
+      "url": "https://www.crazydaysandnights.net/",
+      "labels": [
+        "CRAZY DAYS AND NIGHTS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://thedailybeast.com": {
+      "url": "http://thedailybeast.com",
+      "labels": [
+        "DAILY BEAST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://dailycaller.com/": {
+      "url": "http://dailycaller.com/",
+      "labels": [
+        "DAILY CALLER"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.deadline.com/hollywood/": {
+      "url": "http://www.deadline.com/hollywood/",
+      "labels": [
+        "DEADLINE HOLLYWOOD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.elnuevodia.com/english/": {
+      "url": "https://www.elnuevodia.com/english/",
+      "labels": [
+        "EL NUEVO DIA [SAN JUAN]"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.ew.com/ew/": {
+      "url": "http://www.ew.com/ew/",
+      "labels": [
+        "ENT WEEKLY"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.foxnews.com": {
+      "url": "http://www.foxnews.com",
+      "labels": [
+        "FOXNEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.thefp.com/": {
+      "url": "https://www.thefp.com/",
+      "labels": [
+        "FREE PRESS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://thehill.com": {
+      "url": "http://thehill.com",
+      "labels": [
+        "HILL"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://thehill.com/news": {
+      "url": "http://thehill.com/news",
+      "labels": [
+        "JUST IN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.hollywoodreporter.com": {
+      "url": "http://www.hollywoodreporter.com",
+      "labels": [
+        "H'WOOD REPORTER"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.huffingtonpost.com": {
+      "url": "http://www.huffingtonpost.com",
+      "labels": [
+        "HUFFINGTON POST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://theintercept.com/": {
+      "url": "https://theintercept.com/",
+      "labels": [
+        "INTERCEPT"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.dailynews.com/": {
+      "url": "https://www.dailynews.com/",
+      "labels": [
+        "LA DAILY NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.latimes.com": {
+      "url": "http://www.latimes.com",
+      "labels": [
+        "LA TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.marketwatch.com/": {
+      "url": "https://www.marketwatch.com/",
+      "labels": [
+        "MARKETWATCH"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.mediaite.com/": {
+      "url": "https://www.mediaite.com/",
+      "labels": [
+        "MEDIAITE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.motherjones.com/": {
+      "url": "http://www.motherjones.com/",
+      "labels": [
+        "MOTHER JONES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.TheNation.com": {
+      "url": "http://www.TheNation.com",
+      "labels": [
+        "NATION"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.nationalreview.com": {
+      "url": "http://www.nationalreview.com",
+      "labels": [
+        "NATIONAL REVIEW"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.nbcnews.com/": {
+      "url": "http://www.nbcnews.com/",
+      "labels": [
+        "NBC NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.thenewrepublic.com/": {
+      "url": "http://www.thenewrepublic.com/",
+      "labels": [
+        "NEW REPUBLIC"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://nymag.com": {
+      "url": "http://nymag.com",
+      "labels": [
+        "NEW YORK"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.nydailynews.com/": {
+      "url": "http://www.nydailynews.com/",
+      "labels": [
+        "NY DAILY NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.nypost.com/": {
+      "url": "http://www.nypost.com/",
+      "labels": [
+        "NY POST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.nytimes.com": {
+      "url": "http://www.nytimes.com",
+      "labels": [
+        "NY TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.nytimes.com/search?lang=en&query=&sort=newest": {
+      "url": "https://www.nytimes.com/search?lang=en&query=&sort=newest",
+      "labels": [
+        "WIRE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.newyorker.com": {
+      "url": "http://www.newyorker.com",
+      "labels": [
+        "NEW YORKER"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.newsmax.com": {
+      "url": "http://www.newsmax.com",
+      "labels": [
+        "NEWSMAX"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.newzit.com/": {
+      "url": "https://www.newzit.com/",
+      "labels": [
+        "NEWZIT"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.people.com": {
+      "url": "http://www.people.com",
+      "labels": [
+        "PEOPLE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.politico.com/": {
+      "url": "http://www.politico.com/",
+      "labels": [
+        "POLITICO"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.rawstory.com/": {
+      "url": "https://www.rawstory.com/",
+      "labels": [
+        "RAW STORY"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://reason.org/": {
+      "url": "https://reason.org/",
+      "labels": [
+        "REASON"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.rollcall.com/": {
+      "url": "http://www.rollcall.com/",
+      "labels": [
+        "ROLL CALL"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.rollingstone.com": {
+      "url": "http://www.rollingstone.com",
+      "labels": [
+        "ROLLING STONE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.salon.com/": {
+      "url": "http://www.salon.com/",
+      "labels": [
+        "SALON"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.sfgate.com/chronicle/": {
+      "url": "http://www.sfgate.com/chronicle/",
+      "labels": [
+        "SAN FRAN CHRON"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.semafor.com/": {
+      "url": "https://www.semafor.com/",
+      "labels": [
+        "SEMAFOR"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.showbiz411.com": {
+      "url": "http://www.showbiz411.com",
+      "labels": [
+        "SHOWBIZ 411"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://news.sky.com/": {
+      "url": "http://news.sky.com/",
+      "labels": [
+        "SKY NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://news.sky.com/watch-live": {
+      "url": "https://news.sky.com/watch-live",
+      "labels": [
+        "LIVE"
+      ],
+      "category": "Other",
+      "destination_type": "Live stream",
+      "classification_basis": "Live TV or radio URL"
+    },
+    "http://thesmokinggun.com/": {
+      "url": "http://thesmokinggun.com/",
+      "labels": [
+        "SMOKING GUN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://stateline.org/": {
+      "url": "https://stateline.org/",
+      "labels": [
+        "STATELINE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.TMZ.com": {
+      "url": "http://www.TMZ.com",
+      "labels": [
+        "TMZ"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.usnews.com/usnews/home.htm": {
+      "url": "http://www.usnews.com/usnews/home.htm",
+      "labels": [
+        "US NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.usatoday.com/": {
+      "url": "http://www.usatoday.com/",
+      "labels": [
+        "USA TODAY"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.vanityfair.com": {
+      "url": "http://www.vanityfair.com",
+      "labels": [
+        "VANITY FAIR"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.variety.com/": {
+      "url": "http://www.variety.com/",
+      "labels": [
+        "VARIETY"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://online.wsj.com/home-page": {
+      "url": "http://online.wsj.com/home-page",
+      "labels": [
+        "WALL STREET JOURNAL"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.washingtonexaminer.com/": {
+      "url": "http://www.washingtonexaminer.com/",
+      "labels": [
+        "WASH EXAMINER"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.washingtonpost.com/": {
+      "url": "http://www.washingtonpost.com/",
+      "labels": [
+        "WASH POST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.washingtonpost.com/latest-headlines/": {
+      "url": "https://www.washingtonpost.com/latest-headlines/",
+      "labels": [
+        "LATEST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://washingtonsun.com/": {
+      "url": "https://washingtonsun.com/",
+      "labels": [
+        "WASH SUN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.washingtontimes.com": {
+      "url": "http://www.washingtontimes.com",
+      "labels": [
+        "WASH TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.worldofreel.com/": {
+      "url": "https://www.worldofreel.com/",
+      "labels": [
+        "WORLD OF REEL"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.thewrap.com/": {
+      "url": "https://www.thewrap.com/",
+      "labels": [
+        "WRAP"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.africanews.com/": {
+      "url": "https://www.africanews.com/",
+      "labels": [
+        "AFRICAN NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.arabnews.com/": {
+      "url": "https://www.arabnews.com/",
+      "labels": [
+        "ARAB NEWS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.bild.de/politik/international/bild-international/home-44225950.bild.html": {
+      "url": "https://www.bild.de/politik/international/bild-international/home-44225950.bild.html",
+      "labels": [
+        "BILD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://en.people.cn/": {
+      "url": "http://en.people.cn/",
+      "labels": [
+        "CHINA PEOPLE'S DAILY"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.clarin.com/": {
+      "url": "https://www.clarin.com/",
+      "labels": [
+        "CLARIN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.welt.de/": {
+      "url": "https://www.welt.de/",
+      "labels": [
+        "DIE WELT"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.zeit.de/english/index": {
+      "url": "https://www.zeit.de/english/index",
+      "labels": [
+        "DIE ZEIT"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.economist.com/": {
+      "url": "https://www.economist.com/",
+      "labels": [
+        "ECONOMIST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.elmundo.es/": {
+      "url": "https://www.elmundo.es/",
+      "labels": [
+        "EL MUNDO"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://english.elpais.com/": {
+      "url": "https://english.elpais.com/",
+      "labels": [
+        "EL PAIS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.ft.com": {
+      "url": "http://www.ft.com",
+      "labels": [
+        "FINANCIAL TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www1.folha.uol.com.br/internacional/en/": {
+      "url": "https://www1.folha.uol.com.br/internacional/en/",
+      "labels": [
+        "FOLHA DE S. PAULO"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://wyborcza.pl/0,0.html": {
+      "url": "https://wyborcza.pl/0,0.html",
+      "labels": [
+        "GAZETA WYBORCZA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.gbnews.com/": {
+      "url": "https://www.gbnews.com/",
+      "labels": [
+        "GBN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.haaretz.com/": {
+      "url": "https://www.haaretz.com/",
+      "labels": [
+        "HAARETZ"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.hindustantimes.com/": {
+      "url": "https://www.hindustantimes.com/",
+      "labels": [
+        "HINDUSTAN TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.hurriyetdailynews.com/": {
+      "url": "https://www.hurriyetdailynews.com/",
+      "labels": [
+        "HURRIYET"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.japantimes.co.jp/": {
+      "url": "https://www.japantimes.co.jp/",
+      "labels": [
+        "JAPAN TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.jpost.com": {
+      "url": "http://www.jpost.com",
+      "labels": [
+        "JERUSALEM POST"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.la-prensa.com.mx/": {
+      "url": "https://www.la-prensa.com.mx/",
+      "labels": [
+        "LA PRENSA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.repubblica.it/": {
+      "url": "https://www.repubblica.it/",
+      "labels": [
+        "LA REPUBBLICA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.lefigaro.fr/": {
+      "url": "https://www.lefigaro.fr/",
+      "labels": [
+        "LE FIGARO"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.lemonde.fr/en/": {
+      "url": "https://www.lemonde.fr/en/",
+      "labels": [
+        "LE MONDE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.lesoir.be/": {
+      "url": "https://www.lesoir.be/",
+      "labels": [
+        "LE SOIR"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.themoscowtimes.com/": {
+      "url": "https://www.themoscowtimes.com/",
+      "labels": [
+        "MOSCOW TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.theneweuropean.co.uk/": {
+      "url": "https://www.theneweuropean.co.uk/",
+      "labels": [
+        "NEW EUROPEAN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://asia.nikkei.com/": {
+      "url": "https://asia.nikkei.com/",
+      "labels": [
+        "NIKKEI ASIA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.riotimesonline.com/": {
+      "url": "https://www.riotimesonline.com/",
+      "labels": [
+        "RIO TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.smh.com.au/": {
+      "url": "https://www.smh.com.au/",
+      "labels": [
+        "SYDNEY MORNING HERALD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://timesofindia.indiatimes.com/us": {
+      "url": "https://timesofindia.indiatimes.com/us",
+      "labels": [
+        "TIMES OF INDIA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.dailymail.co.uk/home/index.html": {
+      "url": "http://www.dailymail.co.uk/home/index.html",
+      "labels": [
+        "[UK] DAILY MAIL"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.dailymail.co.uk/news/headlines/index.html": {
+      "url": "http://www.dailymail.co.uk/news/headlines/index.html",
+      "labels": [
+        "FEED"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.mirror.co.uk": {
+      "url": "http://www.mirror.co.uk",
+      "labels": [
+        "[UK] DAILY MIRROR"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.dailystar.co.uk/": {
+      "url": "https://www.dailystar.co.uk/",
+      "labels": [
+        "[UK] DAILY STAR"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.express.co.uk": {
+      "url": "http://www.express.co.uk",
+      "labels": [
+        "[UK] EXPRESS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.theguardian.com/uk?INTCMP=CE_UK": {
+      "url": "https://www.theguardian.com/uk?INTCMP=CE_UK",
+      "labels": [
+        "[UK] GUARDIAN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.independent.co.uk/": {
+      "url": "http://www.independent.co.uk/",
+      "labels": [
+        "[UK] INDEPENDENT"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://metro.co.uk/": {
+      "url": "https://metro.co.uk/",
+      "labels": [
+        "[UK] METRO"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.standard.co.uk/": {
+      "url": "https://www.standard.co.uk/",
+      "labels": [
+        "[UK] STANDARD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.thesun.co.uk": {
+      "url": "http://www.thesun.co.uk",
+      "labels": [
+        "[UK] SUN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.telegraph.co.uk/": {
+      "url": "https://www.telegraph.co.uk/",
+      "labels": [
+        "[UK] TELEGRAPH"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.thetimes.com/": {
+      "url": "https://www.thetimes.com/",
+      "labels": [
+        "[UK] TIMES"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.theyeshivaworld.com/": {
+      "url": "https://www.theyeshivaworld.com/",
+      "labels": [
+        "YESHIVA WORLD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://japannews.yomiuri.co.jp/": {
+      "url": "https://japannews.yomiuri.co.jp/",
+      "labels": [
+        "YOMIURI SHIMBUN"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.france24.com/en/timeline/global/": {
+      "url": "http://www.france24.com/en/timeline/global/",
+      "labels": [
+        "AGENCE FRANCE-PRESSE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://apnews.com/": {
+      "url": "https://apnews.com/",
+      "labels": [
+        "AP TOP"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://player.streamguys.com/apnews/sgplayer/player.php": {
+      "url": "http://player.streamguys.com/apnews/sgplayer/player.php",
+      "labels": [
+        "AP RADIO"
+      ],
+      "category": "Other",
+      "destination_type": "Live stream",
+      "classification_basis": "Live TV or radio URL"
+    },
+    "http://www.bloomberg.com/?pid=20601087&sid=a0giIbmAzkss&pos=7": {
+      "url": "http://www.bloomberg.com/?pid=20601087&sid=a0giIbmAzkss&pos=7",
+      "labels": [
+        "BLOOMBERG"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://nordot.app/-/units/601684660556563553": {
+      "url": "https://nordot.app/-/units/601684660556563553",
+      "labels": [
+        "DEUTSCHE PRESSE-AGENTUR"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www.dw.com/en/top-stories/s-9097": {
+      "url": "https://www.dw.com/en/top-stories/s-9097",
+      "labels": [
+        "DEUTCHE WELLE"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.interfax.com/news.asp": {
+      "url": "http://www.interfax.com/news.asp",
+      "labels": [
+        "INTERFAX"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.itar-tass.com/en/": {
+      "url": "http://www.itar-tass.com/en/",
+      "labels": [
+        "ITAR-TASS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://english.kyodonews.net/": {
+      "url": "https://english.kyodonews.net/",
+      "labels": [
+        "KYODO"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.mcclatchydc.com": {
+      "url": "http://www.mcclatchydc.com",
+      "labels": [
+        "MCCLATCHY [DC]"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "https://www3.nhk.or.jp/nhkworld/en/news/": {
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/",
+      "labels": [
+        "NHK"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.pravdareport.com/world/": {
+      "url": "http://www.pravdareport.com/world/",
+      "labels": [
+        "PRAVDA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.ptinews.com/": {
+      "url": "http://www.ptinews.com/",
+      "labels": [
+        "PRESS TRUST INDIA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.reuters.com/": {
+      "url": "http://www.reuters.com/",
+      "labels": [
+        "REUTERS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.reuters.com/news/archive/politicsNews?date=today": {
+      "url": "http://www.reuters.com/news/archive/politicsNews?date=today",
+      "labels": [
+        "POLITICS"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.reuters.com/news/archive/worldNews?date=today": {
+      "url": "http://www.reuters.com/news/archive/worldNews?date=today",
+      "labels": [
+        "WORLD"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://www.xinhuanet.com/english/world/index.htm": {
+      "url": "http://www.xinhuanet.com/english/world/index.htm",
+      "labels": [
+        "XINHUA"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    },
+    "http://english.yonhapnews.co.kr/": {
+      "url": "http://english.yonhapnews.co.kr/",
+      "labels": [
+        "YONHAP"
+      ],
+      "category": "Organization",
+      "destination_type": "Publisher or news feed",
+      "classification_basis": "Publisher directory placement and URL; inferred"
+    }
+  }
+}
